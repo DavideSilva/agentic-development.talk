@@ -2,8 +2,6 @@
 
 Slides for the **Agentic Development** talk — working with AI coding agents as collaborators, not autocomplete.
 
-Duration: ~35 min. Built with [Slidev](https://github.com/slidevjs/slidev).
-
 📄 **[Download the slides (PDF)](./Agentic%20Development%20-%20Slidev.pdf)**
 
 ## About the talk
@@ -24,3 +22,4 @@ Generating code with AI often produces inconsistent results: the agent doesn't k
 - visit <http://localhost:3030>
 
 Edit [slides.md](./slides.md) to see the changes. Learn more about Slidev at the [documentation](https://sli.dev/).
+Built with [Slidev](https://github.com/slidevjs/slidev).
