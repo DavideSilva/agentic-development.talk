@@ -1,0 +1,4 @@
+:root {
+  --slidev-theme-accents-yellow: #d4c66b;
+  --slidev-theme-default-headingBg: var(--slidev-theme-accents-blue);
+}
